@@ -25,6 +25,15 @@
 
 ---
 
+## 🌟 What I'm Looking For
+
+- 📚 Collaborations on AI and data-driven projects, especially those with real-world impact  
+- 🧠 Opportunities in data governance, quality, and privacy — where policy meets practice  
+- 🤖 Research roles or freelance work in NLP, smart systems, and data regulation tech  
+- 🤝 Always open to knowledge-sharing, mentoring, and meaningful technical conversations
+
+---
+
 ## 📫 Contact Me
 
 - 📧 Phone: 0547001253  
