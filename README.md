@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Muhannad Almuntashiri 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhannadAlm&show_icons=true&theme=default)
-
 
 🎓 Master's Student in Artificial Intelligence  
 💼 Experienced in Data Management, Governance, and Privacy  
