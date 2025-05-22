@@ -27,6 +27,7 @@
 
 ## 📫 Contact Me
 
+- 📧 Phone: 0547001253  
 - 📧 Email: [malmontasheri@gmail.com](mailto:malmontasheri@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/muhannad-almuntashiri](https://www.linkedin.com/in/muhannad-almuntashiri/)
 
