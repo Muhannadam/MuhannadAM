@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Muhannad Almuntashiri 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhannadAlm&show_icons=true&theme=default)
+
+
 🎓 Master's Student in Artificial Intelligence  
 💼 Experienced in Data Management, Governance, and Privacy  
 📊 Passionate about everything related to Data — even AI :)  
@@ -36,10 +39,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Phone: 0547001253  
 - 📧 Email: [malmontasheri@gmail.com](mailto:malmontasheri@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/muhannad-almuntashiri](https://www.linkedin.com/in/muhannad-almuntashiri/)
 
 ---
 
-_“It’s all about Data.”_
+_“Data isn’t everything. But everything starts with data.”_
