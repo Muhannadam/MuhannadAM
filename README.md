@@ -3,7 +3,7 @@
 🎓 Master's Student in Artificial Intelligence  
 💼 Experienced in Data Management, Governance, and Privacy  
 📊 Passionate about everything related to Data — even AI :)  
-🌍 Data is everything to me
+❤️‍💻 Data drives everything I do — from governance to hands-on implementation.
 
 ---
 
