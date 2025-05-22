@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhannad Almuntashiri 
 
-<!--
-**Muhannadam/MuhannadAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Artificial Intelligence  
+💼 Experienced in Data Management, Governance, and Privacy  
+📊 Passionate about everything related to Data — even AI :)  
+🌍 Data is everything to me
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages**: Python, SQL  
+- **AI/ML**: scikit-learn, TensorFlow, Keras, Hugging Face  
+- **Deployment**: Streamlit Cloud, Hugging Face Spaces  
+- **Other**: Git, Linux, VSCode, Power BI
+
+---
+
+## 📌 Current Projects
+
+- 🛡️ **Personal Data Protection GPT** – A RAG-based chatbot  
+- 🚀 **Smart Arabic News Classifier** using NLP & LLMs  
+- 🧠 **Tactical AI Battle Game** with strategic behavior  
+- 🔧 Other exciting projects are in progress :)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [malmontasheri@gmail.com](mailto:malmontasheri@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/muhannad-almuntashiri](https://www.linkedin.com/in/muhannad-almuntashiri/)
+
+---
+
+_“It’s all about Data.”_
